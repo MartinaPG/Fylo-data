@@ -36,13 +36,13 @@ body{
   background-color: hsl(228, 56%, 26%);
   border-radius: 10px;
   border-top-right-radius: 100px;
-  flex-shrink: 0;
 }
 .right{
   position: relative;
   display: inline-block;
   margin: 10px;
-  width:800px;
+  width:40%;
+  min-width: 600px;
   height:150px;
   background-color: hsl(228, 56%, 26%);
   border-radius: 10px;
